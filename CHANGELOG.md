@@ -1,5 +1,17 @@
 # @primer/css
 
+## 19.2.0
+
+### Minor Changes
+
+- [#1737](https://github.com/primer/css/pull/1737) [`6b4089d8`](https://github.com/primer/css/commit/6b4089d8b37174ca061762c56b5e4134a54cf4ef) Thanks [@vdepizzol](https://github.com/vdepizzol)! - Adds new PageLayout component CSS with Storybook documentation
+
+### Patch Changes
+
+- [#1855](https://github.com/primer/css/pull/1855) [`8f2e7534`](https://github.com/primer/css/commit/8f2e7534ecbdb3d0e773d60c725b55dc4bb263e2) Thanks [@simurai](https://github.com/simurai)! - Bump primer/primitives to `7.4.0`
+
+* [#1869](https://github.com/primer/css/pull/1869) [`868f61a1`](https://github.com/primer/css/commit/868f61a199df14862922d52905de66cdb1e1c192) Thanks [@jdanyow](https://github.com/jdanyow)! - Minor bugfix for AvatarStack. Removing the box-shadow from the AvatarStack-body on hover.
+
 ## 19.1.1
 
 ### Patch Changes
